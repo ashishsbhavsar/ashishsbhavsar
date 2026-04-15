@@ -1,4 +1,11 @@
 <h1 align="center">Hello World! 👋,<br> I'm Ashish S. Bhavsar</h1>
 <h3 align="center">A passionate Cloud DevOps & AI Engineer from India</h3>
 
-<p><img src=badge/cloud-digital-leader.png style="height: 200px;width: auto;"></p>
+<p>
+<img src=badge/cloud-digital-leader.png style="height: 200px;width: auto;">
+<img src=badge/RHCSA.png style="height: 200px;width: auto;">
+<img src=badge/RHCSC.png style="height: 200px;width: auto;">
+<img src=badge/RHCSOSAI.png style="height: 200px;width: auto;">
+<img src=badge/LAACLA.png style="height: 200px;width: auto;">
+<img src=badge/LAACCA.png style="height: 200px;width: auto;">
+</p>
