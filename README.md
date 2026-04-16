@@ -11,8 +11,8 @@
 </p>
 
 <h2 align="center">Skills which Lift Me Up</h2>
-<h3 align="center">Operationg Systems</h3>
 <p>
+  <h3 align="center">Operationg Systems</h3>
   <img src=skills/linux.png style="height: 50px;width: auto;">
   <img src=skills/redhat.png style="height: 50px;width: auto;">
   <img src=skills/ubuntu.png style="height: 50px;width: auto;">
