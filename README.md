@@ -14,16 +14,16 @@
 
 <p><h3 align="center">Operating Systems (OS)</h3><p>
 <p>
-  <img src=skills/linux.png style="height: 50px;width: auto;">
-  <img src=skills/redhat.png style="height: 50px;width: auto;">
-  <img src=skills/ubuntu.png style="height: 50px;width: auto;">
-  <img src=skills/suse.png style="height: 50px;width: auto;">
-  <img src=skills/fedora.png style="height: 50px;width: auto;">
-  <img src=skills/windows.png style="height: 50px;width: auto;">
+  <img src=skills/linux.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/redhat.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/ubuntu.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/suse.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/fedora.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/windows.png style="height: 50px;width: auto; margin: 10px;">
 </p>
 
 <p><h3 align="center">Cloud Platform</h3><p>
 <p>
-  <img src=skills/gcp.png style="height: 50px;width: auto;">
-  <img src=skills/aws.png style="height: 50px;width: auto;">
+  <img src=skills/gcp.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/aws.png style="height: 50px;width: auto; margin: 10px;">
 </p>
