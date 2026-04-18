@@ -2,12 +2,12 @@
 <h3 align="center">A passionate Cloud DevOps & AI Engineer from India</h3>
 
 <p>
-  <img src=badge/cloud-digital-leader.png style="height: 150px;width: auto;">
-  <img src=badge/RHCSA.png style="height: 150px;width: auto;">
-  <img src=badge/RHCSC.png style="height: 150px;width: auto;">
-  <img src=badge/RHCSOSAI.png style="height: 150px;width: auto;">
-  <img src=badge/LAACLA.png style="height: 150px;width: auto;">
-  <img src=badge/LAACCA.png style="height: 150px;width: auto;">
+  <img src=badge/cloud-digital-leader.png style="height: 150px;width: auto; margin: 10px;">
+  <img src=badge/RHCSA.png style="height: 150px;width: auto; margin: 10px;">
+  <img src=badge/RHCSC.png style="height: 150px;width: auto; margin: 10px;">
+  <img src=badge/RHCSOSAI.png style="height: 150px;width: auto; margin: 10px;">
+  <img src=badge/LAACLA.png style="height: 150px;width: auto; margin: 10px;">
+  <img src=badge/LAACCA.png style="height: 150px;width: auto; margin: 10px;">
 </p>
 
 <h2 align="center">Skills which Lift Me Up</h2>
