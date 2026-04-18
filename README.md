@@ -21,3 +21,9 @@
   <img src=skills/fedora.png style="height: 50px;width: auto;">
   <img src=skills/windows.png style="height: 50px;width: auto;">
 </p>
+
+<p><h3 align="center">Cloud Platform</h3><p>
+<p>
+  <img src=skills/gcp.png style="height: 50px;width: auto;">
+  <img src=skills/aws.png style="height: 50px;width: auto;">
+</p>
