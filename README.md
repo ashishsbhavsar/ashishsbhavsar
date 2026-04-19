@@ -32,6 +32,6 @@
 <p>
   <img src=skills/docker.png style="height: 50px;width: auto; margin: 10px;">
   <img src=skills/podman.png style="height: 50px;width: auto; margin: 10px;">
-  <img src=skills/buildh.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/buildah.png style="height: 50px;width: auto; margin: 10px;">
   <img src=skills/containerd.png style="height: 50px;width: auto; margin: 10px;">
 </p>
