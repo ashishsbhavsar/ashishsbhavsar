@@ -27,3 +27,11 @@
   <img src=skills/gcp.png style="height: 50px;width: auto; margin: 10px;">
   <img src=skills/aws.png style="height: 50px;width: auto; margin: 10px;">
 </p>
+
+<p><h3 align="center">Containers</h3><p>
+<p>
+  <img src=skills/docker.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/podman.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/buildh.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/containerd.png style="height: 50px;width: auto; margin: 10px;">
+</p>
