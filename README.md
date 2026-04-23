@@ -35,3 +35,9 @@
   <img src=skills/buildah.png style="height: 50px;width: auto; margin: 10px;">
   <img src=skills/containerd.png style="height: 50px;width: auto; margin: 10px;">
 </p>
+
+<p><h3 align="center">Container Orchestration</h3><p>
+<p>
+  <img src=skills/kubernetes.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/openshift.png style="height: 50px;width: auto; margin: 10px;">
+</p>
