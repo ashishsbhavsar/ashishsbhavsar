@@ -12,7 +12,7 @@
 
 <h2 align="center">Skills which Lift Me Up</h2>
 
-<p><h3 align="center">Operating Systems (OS)</h3><p>
+<p><h3>Operating Systems (OS)</h3><p>
 <p>
   <img src=skills/linux.png style="height: 50px;width: auto; margin: 10px;">
   <img src=skills/redhat.png style="height: 50px;width: auto; margin: 10px;">
