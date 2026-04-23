@@ -10,6 +10,12 @@
   <img src=badge/LAACCA.png style="height: 150px;width: auto; margin: 10px;">
 </p>
 
+<h2 align="center">Connect with Me</h2>
+<p align="center">
+  <img src=icon/linkedin.png style="height: 50px;width: auto; margin: 10px;"><a>www.linkedin.com/ashishsbhavsar</a>
+</p>
+
+
 <h2 align="center">Skills which Lift Me Up</h2>
 
 <p><h3>Operating Systems (OS)</h3><p>
