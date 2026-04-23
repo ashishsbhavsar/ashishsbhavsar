@@ -12,7 +12,7 @@
 
 <h2 align="center">Connect with Me</h2>
 <p align="center">
-  <img src=icon/linkedin.png style="height: 50px;width: auto; margin: 10px;"><a>www.linkedin.com/ashishsbhavsar</a>
+  <img src=icon/linkedin.png style="height: 50px;width: auto; margin: 10px;"><a href="www.linkedin.com/ashishsbhavsar"></a>
 </p>
 
 
