@@ -47,3 +47,11 @@
   <img src=skills/kubernetes.png style="height: 50px;width: auto; margin: 10px;">
   <img src=skills/openshift.png style="height: 50px;width: auto; margin: 10px;">
 </p>
+
+<p><h3>Programming and Scripting</h3><p>
+<p>
+  <img src=skills/html.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/css.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/xml.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/yaml.png style="height: 50px;width: auto; margin: 10px;">
+</p>
