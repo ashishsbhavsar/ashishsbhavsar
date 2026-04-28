@@ -55,3 +55,9 @@
   <img src=skills/xml.png style="height: 50px;width: auto; margin: 10px;">
   <img src=skills/yaml.png style="height: 50px;width: auto; margin: 10px;">
 </p>
+
+<p><h3>Version Control</h3><p>
+<p>
+  <img src=skills/git.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/github.png style="height: 50px;width: auto; margin: 10px;">
+</p>
