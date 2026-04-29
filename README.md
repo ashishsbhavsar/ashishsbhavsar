@@ -61,3 +61,10 @@
   <img src=skills/git.png style="height: 50px;width: auto; margin: 10px;">
   <img src=skills/github.png style="height: 50px;width: auto; margin: 10px;">
 </p>
+
+<p><h3>CI/CD</h3><p>
+<p>
+  <img src=skills/github_actions.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/jenkins.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/gitlab.png style="height: 50px;width: auto; margin: 10px;">
+</p>
