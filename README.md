@@ -74,3 +74,9 @@
   <img src=skills/terraform.png style="height: 50px;width: auto; margin: 10px;">
   <img src=skills/ansible.png style="height: 50px;width: auto; margin: 10px;">
 </p>
+
+<p><h3>Databases & Framework</h3><p>
+<p>
+  <img src=skills/firebase.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/mongodb.png style="height: 50px;width: auto; margin: 10px;">
+</p>
