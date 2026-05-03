@@ -81,3 +81,10 @@
   <img src=skills/mongo.png style="height: 50px;width: auto; margin: 10px;">
   <img src=skills/bootstrap.png style="height: 50px;width: auto; margin: 10px;">
 </p>
+
+<p><h3>IDE</h3><p>
+<p>
+  <img src=skills/intellij.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/visual-studio.png style="height: 50px;width: auto; margin: 10px;">
+  <img src=skills/android_studio.png style="height: 50px;width: auto; margin: 10px;">
+</p>
