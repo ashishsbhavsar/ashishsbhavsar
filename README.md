@@ -13,6 +13,7 @@
 <h2 align="center">Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ashish-s-bhavsar/"><img src=icon/linkedin.png style="height: 50px;width: auto; margin: 10px;"></a>
+  <a href="https://ashishsbhavsar.medium.com/"><img src=icon/medium.png style="height: 50px;width: auto; margin: 10px;"></a>
 </p>
 
 
